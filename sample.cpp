@@ -5,7 +5,7 @@ int sum(int,int);
 int main()
 {
     std::cout<<"This is master"<<std::endl;
-    int a =2; int b=8;
+    int a =1; int b=9
     std::cout << sum(a,b) << std::endl;
     return 0;
 }
