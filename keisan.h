@@ -7,3 +7,5 @@ class Keisan{
     int b;
     int add();
 };
+
+#endif
